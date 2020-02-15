@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="132px" height="53px" viewBox="0 0 132 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>LOGOv2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <text id="text-1" font-family="Copperplate-Light, Copperplate" font-size="20" font-weight="300" letter-spacing="0.5" fill="#FFAB00">
+            <tspan x="50" y="42">INSTAL</tspan>
+        </text>
+        <filter x="-4.9%" y="-22.7%" width="112.3%" height="145.5%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.348165761   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.00466578,0.0927191489 C12.3181078,2.32981474 18.4411765,9.97002928 18.4411765,19.0511112 C18.4411765,29.5382942 10.275134,38.1038616 0,38.6453413 L1.26586907,35.7286278 C9.34763609,34.5733747 15.56279,27.5743625 15.56279,19.1128137 C15.56279,11.4960578 10.5267144,5.06438036 3.62635071,3.01340646 M3.62054827,3.00210648 L3.98800187,0.108433982" id="path-3"></path>
+        <filter x="-48.8%" y="-18.2%" width="175.9%" height="136.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0156862745   0 0 0 0 0   0 0 0 0 0.250980392  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M4.00466578,0.0922798309 C12.3181078,2.32943192 18.4411765,9.96983938 18.4411765,19.0511506 C18.4411765,29.5385984 10.275134,38.1043821 0,38.6458755 L1.26586907,35.7290884 C9.34763609,34.5738061 15.56279,27.5746172 15.56279,19.1128547 C15.56279,11.4959064 10.5267144,5.06406659 3.62635071,3.0130409 M3.62054827,3.00174064 L3.98800187,0.107995061" id="path-5"></path>
+        <filter x="-48.8%" y="-18.2%" width="175.9%" height="136.3%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="-2" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0156862745   0 0 0 0 0   0 0 0 0 0.250980392  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="38.9769392%" y1="-3.0375319%" x2="66.6747684%" y2="107.656452%" id="linearGradient-7">
+            <stop stop-color="#DAB000" offset="0%"></stop>
+            <stop stop-color="#FFF200" offset="56.74356%"></stop>
+            <stop stop-color="#FF0000" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-8" points="20.9647059 20.953313 6.63830893 48.8376106 6.57655722 48.8987603 9.97290133 28.6581847 0 28.5664601 0.0308758555 28.4747354 14.4807762 0.101239669 14.4190245 0.284688995 11.0844321 20.8310135 11.2079355 20.8310135 20.9647059 20.8310135"></polyline>
+        <filter x="-19.1%" y="-8.2%" width="147.7%" height="120.5%" filterUnits="objectBoundingBox" id="filter-9">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.920969203   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="SZABLON-RWD-BOOTSTRAP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-150.000000, -55.000000)">
+            <g id="Navbar" transform="translate(128.000000, 36.000000)">
+                <g id="LOGOv2" transform="translate(24.000000, 20.000000)">
+                    <g id="INSTAL" fill="#FFAB00" fill-opacity="1">
+                        <use filter="url(#filter-2)" xlink:href="#text-1"></use>
+                        <use xlink:href="#text-1"></use>
+                    </g>
+                    <text id="ADE-Copy" font-family="Copperplate-Light, Copperplate" font-size="36" font-weight="300" letter-spacing="1.93993768" fill="#FFFFFF">
+                        <tspan x="50" y="27">ADE</tspan>
+                    </text>
+                    <g id="Group-3-Copy">
+                        <path d="M19.1752008,44.9973988 C19.3719004,44.9973988 21.7280762,45.0032514 21.9238234,44.9973988 C32.4454867,44.6828145 41,35.8938451 41,25.4576729 C41,18.1662644 37.61795,12.3234903 32.0910543,9.00615379 C29.5601489,7.48706144 26.6712708,6.03669641 23.288621,6.03669641 C22.5402367,6.03669641 20.9687192,5.95412949 20.2261999,6.03669641 C10.2835659,7.14230093 2,15.5660535 2,25.4576729 C2,32.4846289 5.62048214,38.1349434 10.9400958,41.5600079 C13.065516,42.9284721 14.5215136,44.146248 17.1315977,44.644201 C17.8714131,44.7853433 18.3689842,44.9973988 19.1752008,44.9973988 Z" id="Oval"></path>
+                        <g id="Group-2" transform="translate(23.000000, 5.000000)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            </g>
+                        </g>
+                        <g id="Group-2-Copy" transform="translate(9.500000, 24.500000) scale(-1, -1) translate(-9.500000, -24.500000) translate(0.000000, 5.000000)">
+                            <g id="Shape">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(10.000000, 0.000000)">
+                            <g id="Line-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-9)" xlink:href="#path-8"></use>
+                                <use fill="url(#linearGradient-7)" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,783 @@
+
+/* General */
+
+body{
+  font-family: "Montserrat";
+
+}
+
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+
+}
+
+h1 {
+    font-family: Montserrat-black;
+    font-size: 64px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #ffffff;
+
+
+   }
+
+
+
+h2{
+  font-family: Montserrat;
+  font-size: 36px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fbaa0b;
+  margin-bottom: 8px;
+
+}
+
+h3{
+  font-family: Montserrat;
+  font-size: 30px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-bottom: 0px;
+  line-height: 72px;
+
+}
+
+h4{
+  font-family: Montserrat-black;
+  font-size: 48px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+h5{
+  font-family: Montserrat-semibold;
+  font-size: 32px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fbaa0b;
+  margin-bottom: 4px;
+}
+
+
+
+.top-heading{
+  padding-top: 46px;
+}
+
+
+
+
+
+
+li {
+  display: inline;
+  white-space: nowrap;
+}
+
+
+/* Navigation */
+
+.homepage-container{
+padding-left: 10%;
+padding-right: 10%;
+
+
+
+}
+.navbar {
+  padding: 4.375% 10% 0px 10%;
+}
+
+.navbar-brand {
+
+  padding-bottom: 19px;
+}
+
+.ml-auto {
+  padding-top: 4px;
+  height: 53px;
+
+}
+
+
+
+
+
+.navbar-dark .navbar-nav .nav-link
+  {
+
+    padding-right: 1.5rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 0.67;
+    letter-spacing: normal;
+    color: rgba(255, 255, 255, 0.8);
+
+  }
+
+  .navbar-dark .navbar-nav .nav-link:hover
+    {
+
+      /* font-size: 1.5rem;
+      font-weight: 600;
+      font-stretch: normal;
+      font-style: normal;
+      line-height: 0.67;
+      letter-spacing: normal; */
+      color: #FBAA0B;
+
+    }
+
+
+
+.navbar {
+font-size: 1.5rem;
+
+z-index: 1;
+
+}
+
+
+
+
+
+/* HomePage */
+
+#HomePage{
+
+  width: 100%;
+
+  background-image: linear-gradient(114deg, #0c212c, #101315 73%, #182935, #000000);
+
+/* 114deg, #0c212c, #101315 73%, #182935, #000000 */
+}
+
+
+
+
+.bigheading {
+  margin-top: 7.2%;
+}
+
+.ADE {
+  color: #FFF;
+}
+
+.Instal {
+  font-family: Montserrat-Black;
+  font-size: 70px;
+  font-weight: 900;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fbaa0b;
+  margin: 0;
+}
+
+.ADE-sub
+{
+
+   /* width: 135px;
+   height: 37px; */
+   opacity: 0.77;
+   font-family: Montserrat;
+   font-size: 30px;
+   font-weight: normal;
+   font-stretch: normal;
+   font-style: normal;
+   line-height: normal;
+   letter-spacing: normal;
+   display: inline;
+   color: #fbaa0b;
+   padding-right: 18px;
+   padding-bottom: 10px;
+
+}
+
+.sub-last {
+  padding-right: 0;
+}
+
+
+
+.ADE-sub-div {
+  display: inline-block;
+  position: absolute;
+  margin-top: -10px;
+  margin-left: -2px;
+
+}
+
+
+
+.Slogan {
+/* margin-top: 66px; */
+margin-top: 14%;
+
+}
+
+.Slogan-text{
+  opacity: 0.9;
+  font-family: Montserrat;
+  font-size: 34px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #e9e5e5;
+}
+
+
+.h1 .text-style-1 {
+  color: #ffffff;
+}
+
+.col-bulb{
+  text-align: center;
+  margin-top: -160px;
+
+}
+
+.bulb {
+  width: 461;
+  height: 542px;
+
+
+  margin: auto;
+  position: relative;
+  left: 11.5%;
+  display: inline;
+  z-index: 0;
+
+
+}
+
+
+#Offer {
+
+  width: 100%;
+
+  background-image: linear-gradient(to bottom, #114a5f, #f8a500);
+
+
+  position: relative;
+  background-blend-mode: normal;
+  background-size: cover;
+
+  overflow: hidden;
+  margin: auto;
+
+}
+
+#Offer:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 0.16;
+    background-image: url('electricianbackground.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
+
+.offer-container{
+  padding-left: 10%;
+  padding-right: 10%;
+  z-index: 2;
+}
+
+.card-deck .card  {
+  margin-right: 5.314%;
+  margin-left: 15px;
+}
+
+
+.card-deck{
+  padding-top: 64px;
+  padding-bottom: 157px;
+}
+
+ .card{
+  border-style: none;
+  border-radius: 8px;
+  text-align: center; */
+
+
+
+}
+
+.card-heading {
+  border-radius: 8px 8px 0px 0px;
+  height: 72px;
+  border-style: solid;
+  border-color: #0d1f29;
+  background-color: #0d1f29;
+
+
+}
+
+.card-body {
+  height: auto;
+  border-color: #0d1f29;
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5), inset 0 1px 3px 0 rgba(0, 0, 0, 0.5);
+  background-color: #ffffff;
+
+}
+
+.card-text{
+  opacity: 0.85;
+  font-family: Montserrat;
+  font-size: 22px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+
+}
+
+
+#Values {
+  background-image: linear-gradient(112deg, #0c212c, #101315 73%, #182935, #000000);
+  height: auto;
+  position: relative;
+}
+
+.values-container{
+  padding-left: 10%;
+
+
+}
+
+.values{
+  padding-top: 64px;
+  padding-bottom: 120px;
+}
+
+.value{
+  opacity: 0.9;
+  font-family: Montserrat-light;
+  font-size: 36px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #fbfbfb;
+
+}
+
+
+
+.valuesimg {
+  display: inline;
+  height: 100%;
+  text-align: right;
+  opacity: 50%;
+  width: 100%
+
+
+
+}
+
+.values-column{
+  padding-right: 0px;
+}
+
+.img-column{
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+#Contact {
+
+  width: 100%;
+
+  background-image: linear-gradient(to bottom, #114a5f, #f8a500);
+
+
+  position: relative;
+  background-blend-mode: normal;
+  background-size: cover;
+
+  overflow: hidden;
+  margin: auto;
+
+}
+
+#Contact:before {
+    content: ' ';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 0;
+    opacity: 0.19;
+    background-image: url('KontaktXL.jpg');
+    background-repeat: no-repeat;
+    background-position: 50% 0;
+    -ms-background-size: cover;
+    -o-background-size: cover;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.contact-container {
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-top: 64px;
+  padding-bottom: 136px;
+
+}
+
+.contacth1{
+
+  color: #fff;
+  margin-bottom: 36px;
+
+}
+
+.p-contact{
+  font-family: Montserrat;
+  font-size: 24px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-bottom: 0px;
+}
+
+.callus {
+  margin-top: 4px;
+}
+
+
+
+.cta-text {
+  font-family: Montserrat-light;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+}
+
+.company, .contactdata , .area {
+  margin-bottom: 24px;
+}
+
+.cta {
+  margin-bottom: 8px;
+}
+
+@media (max-width: 1177px) {
+
+  h1 {
+
+    /* width: 455px;
+    height: 86px; */
+    font-family: Montserrat-Black;
+    font-size: 56px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+
+    margin: 0;
+     }
+
+     h2{
+       opacity: 0.9;
+       font-family: Montserrat;
+       font-size: 28px;
+       font-weight: normal;
+       font-stretch: normal;
+       font-style: normal;
+       line-height: normal;
+       letter-spacing: normal;
+
+
+     }
+
+     .ADE {
+       font-size: 56px;
+
+     }
+     .Instal {
+       font-size: 56px;
+     }
+
+     .Slogan-text {
+       font-size: 28px;
+     }
+
+     .ADE-sub
+     {
+
+        /* width: 135px;
+        height: 37px; */
+        opacity: 0.77;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        display: inline;
+        color: #fbaa0b;
+        padding-right: 14px;
+
+     }
+
+     .sub-last {
+       padding-right: 0;
+     }
+
+     .bulb {
+       width: 397px;
+       height: 467px;
+
+     }
+
+
+
+}
+
+@media (max-width: 991px) {
+  .homepage-container {
+    text-align: center;
+
+  }
+
+
+  .navbar-nav {
+    margin-bottom: 36px;
+  }
+
+
+  .bigheading{
+    z-index: 10;
+    position: relative;
+  }
+
+  .ADE-sub-div {
+    position: relative;
+
+  }
+
+  .bulb {
+    width: 397px;
+    height: 467px;
+    top: -235%;
+    left: 46%;
+    position:absolute;
+    z-index: 0;
+    opacity: 0.29;
+  }
+
+  .Slogan{
+    margin-top: 36px;
+  }
+  .Slogan-text{
+
+    padding-bottom: 136px;
+  }
+
+  #Offer, #Values, #Contact {
+    text-align: center;
+  }
+
+  .values-container {
+    padding-left: 0;
+    padding-right: 0;
+  }
+
+  .values-column{
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+
+  .valuesimg {
+    width: 100%;
+  }
+
+  .card-deck .card {
+            min-width: 33.4%;
+            margin-bottom: 36px;
+            margin-right: 15px;
+
+
+  }
+
+  .cta-text{
+    width: 70%;
+    margin: auto;
+  }
+
+  #Contact:before {
+
+      background-image: url('KontaktLG.jpg');
+
+    }
+
+
+
+}
+
+#Offer:before {
+
+    background-image: url('electricianbackgroundMD.jpg');
+
+
+}
+
+@media (max-width: 767px) {
+
+
+
+  .homepage-container {
+    text-align: center;
+  }
+
+  .bigheading{
+    z-index: 10;
+    position: relative;
+  }
+
+  .ADE-sub-div {
+    position: relative;
+
+  }
+
+  .bulb {
+    width: 397px;
+    height: 476px;
+    top: -240%;
+    left: 46%;
+    position:absolute;
+    z-index: 0;
+    opacity: 0.29;
+  }
+
+
+
+
+
+}
+
+@media (max-width: 576px) {
+
+  #Contact:before {
+
+      background-image: url('KontaktSM.jpg');
+
+    }
+
+  .homepage-container {
+    text-align: center;
+  }
+
+  .bigheading{
+    z-index: 10;
+    position: relative;
+  }
+
+  .ADE-sub-div {
+    position: relative;
+
+  }
+
+  .bulb {
+    width: 322px;
+    height: 379px;
+    top: -200%;
+    left: 50%;
+    position:absolute;
+    z-index: 0;
+    opacity: 0.29;
+  }
+
+  .card-deck .card {
+              min-width: 50.1%; /* 1 Column */
+              margin-bottom: 36px;
+            }
+  .cta-text {
+    width: 100%;
+
+
+  }
+
+
+
+  #Offer:before {
+
+      background-image: url('electricianbackgroundSM.jpg');
+
+
+  }
+
+
+
+
+
+  /* .navbar-nav {
+    margin-bottom: 36px;
+  } */
+
+}
